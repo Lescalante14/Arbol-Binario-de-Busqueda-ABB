@@ -1,0 +1,6 @@
+Enunciado.
+
+Se pide implementar un Arbol Binario de Búsqueda. Para ello se brindan las firmas de las funciones públicas a im-
+plementar y se deja a criterio del alumno la creación de las funciones privadas del TDA para el correcto funcionamiento
+del Arbol cumpliendo con las buenas prácticas de programación.
+Adicionalmente se pide la implementación de un iterador interno para la estructura.
